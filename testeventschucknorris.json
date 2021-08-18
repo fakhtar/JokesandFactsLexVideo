@@ -1,0 +1,11 @@
+{
+    "currentIntent": {
+      "name": "JokesIntent",
+      "slots": {
+        "joketype": "dad"
+      },
+      "slotDetails": {
+        "joketype": "dad"
+      }
+    }
+  }
